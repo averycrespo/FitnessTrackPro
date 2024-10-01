@@ -152,10 +152,10 @@ Final:
 * Started implementing offline page and functionality.
 
 #### Milestone Effort Contribution
-Milestone     | Kevin Gallagher | Avery Crespo | Omar Hanoune
-------------- | ------------- | -------------- | -------------- | 
-Milestone 1   | 55%           | 45%            | 0%             |
-Milestone 2   | 50%           | 50%            | 0%             |
-Final         | 50%           | 50%            | 0%             |
-------------- | ------------- | -------------  | -------------- |
-TOTAL:        | 155%          | 145%           | 0%             | 
+Milestone     | Kevin Gallagher | Avery Crespo | 
+------------- | ------------- | -------------- | 
+Milestone 1   | 55%           | 45%            |
+Milestone 2   | 50%           | 50%            | 
+Final         | 50%           | 50%            |
+------------- | ------------- | -------------  |
+TOTAL:        | 155%          | 145%           | 
