@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Inline+One:ital@0;1&family=Bungee+Inline&family=Bungee+Shade&family=Faster+One&family=Orbitron&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap');
+
+.welcome-container {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    
+  }
+
+  .welcome-page-header {
+    font-size: 30px;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 20px;
+    width: fit-content;
+    border-radius: 5px;
+  }
+  
+  .welcome-buttons {
+    padding-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-color: black;
+  }
+
+  .welcome-buttons-partition {
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+
+  .welcome-buttons-partition .MuiButton-root {
+    font-size: 1.5rem; 
+    padding: 10px 20px; 
+    box-sizing: border-box;
+  }
+
+  /* problems with logout position */
+  .logout-button {
+    display: flex;
+    margin-left: 20px;
+    bottom: 20px;
+    overflow: visible;
+  }
+  
+  .logo-position {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+  }
+
+  .add-workouts-container {
+    flex-direction: row;
+  }
+
+.view-workouts-header {
+  background-color: #313131;
+  color: #04BE00;
+}
+
+.view-exercises-header {
+  background-color: #313131;
+  width: 100%;
+  color: #04BE00;
+}
+
+.add-workout-header-spacing {
+  display: flex;
+  flex-direction: column;
+  padding-top: 40px;
+}
+
+/* conflicts with logout position after adding too many */
+.display-workout-input {
+  position: relative;
+  
+  margin-left: 20px;
+  margin-top: 10px;
+}
